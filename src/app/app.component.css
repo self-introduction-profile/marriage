@@ -1,0 +1,16 @@
+.name-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.name-container b {
+    background-color: wheat;
+    color: #44423b;
+}
+
+.carousel {
+    border-radius: 2%;
+}

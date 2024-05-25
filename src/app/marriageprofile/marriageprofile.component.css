@@ -1,0 +1,120 @@
+h3 {
+    text-align: center;
+}
+
+.meinfo-content {
+    margin: auto;
+    background-color: #e0fffe;
+    width: 90%;
+    height: 80%;
+    justify-content: center;
+    align-content: center;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 10%;
+    padding: 6%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.meinfo-content p {
+    font-size: clamp(9px, 2vw, 17px);
+    line-height: 1;
+    text-align: center;
+    word-break: break-word;
+}
+
+img whatsapp-icon {
+    width: 24px;
+    height:30px;
+    cursor: pointer;
+}
+
+img whatsapp-icon :hover {
+    opacity: 0.8;
+}
+
+
+.family-content {
+    margin: auto;
+    background-color: #e0fffe;
+    width: 90%;
+    height: 60%;
+    justify-content: center;
+    align-content: center;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 10%;
+    padding: 6%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.family-content p {
+    font-size: clamp(9px, 2vw, 17px);
+    line-height: 1;
+    text-align: center;
+    word-break: break-word;
+}
+
+.personal-content {
+    margin: auto;
+    background-color: #e0fffe;
+    width: 90%;
+    height: 80%;
+    justify-content: center;
+    align-content: center;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 10%;
+    padding: 6%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.personal-content p {
+    font-size: clamp(9px, 2vw, 17px);
+    line-height: 1;
+    text-align: center;
+    word-break: break-word;
+}
+
+.kundali-content {
+    margin: auto;
+    background-color: #e0fffe;
+    width: 90%;
+    height: 80%;
+    justify-content: center;
+    align-content: center;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 10%;
+    padding: 6%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.kundali-content p {
+    font-size: clamp(9px, 2vw, 17px);
+    line-height: 1;
+    text-align: center;
+    word-break: break-word;
+}
+
+.favorites-content {
+    margin: auto;
+    margin-bottom: 2%;
+    background-color: #e0fffe;
+    width: 90%;
+    height: 60%;
+    justify-content: center;
+    align-content: center;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 10%;
+    padding: 6%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.favorites-content p {
+    font-size: clamp(9px, 2vw, 17px);
+    line-height: 1;
+    text-align: center;
+    word-break: break-word;
+}

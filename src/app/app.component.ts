@@ -12,7 +12,7 @@ import { MarriageprofileComponent } from './marriageprofile/marriageprofile.comp
 export class AppComponent {
   title = 'profile';
 
-  imagePath1='../assets/profilePic.jpg';
-  imagePath2='../assets/proPic.JPG';
+  imagePath1='marriage/assets/profilePic.jpg';
+  imagePath2='marriage/assets/proPic.JPG';
   
 }

@@ -9,8 +9,8 @@ import { RouterLink } from '@angular/router';
   styleUrl: './marriageprofile.component.css'
 })
 export class MarriageprofileComponent {
-  whatsappPath='../assets/whatsapp.png'; 
-  finImg='../assets/flower.jpg';
+  whatsappPath='marriage/assets/whatsapp.png'; 
+  finImg='marriage/assets/flower.jpg';
   
   openwhastapp() {
     window.open('https://wa.me/918928285072');

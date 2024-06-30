@@ -1,9 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { MarriageprofileComponent } from './marriageprofile/marriageprofile.component';
-import jsPDF from 'jspdf';
-import html2canvas from 'html2canvas';
-
 
 @Component({
   selector: 'app-root',

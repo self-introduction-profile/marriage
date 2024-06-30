@@ -99,7 +99,12 @@
           }
         },
         "deploy": {
-          "builder": "angular-cli-ghpages:deploy"
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "/marriage/",
+            "repo": "https://github.com/self-introduction-profile/marriage.git",
+            "branch": "gh-pages"
+          }
         }
       }
     }
